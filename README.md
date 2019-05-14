@@ -6,5 +6,6 @@
 
 ## 其他
 
+- [睑板腺](https://zh.wikipedia.org/wiki/%E7%9E%BC%E6%9D%BF%E8%85%BA)
 - [睑板腺堵塞造成干眼症，有什么方法治疗？](https://www.zhihu.com/question/36934321)
 
