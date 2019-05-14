@@ -24,7 +24,7 @@
   - 提醒
     - 长期慢性疾病，树立好心态，持续治疗
     - 减少用眼，多眨眼，定时放松休息（参考：[番茄工作法](https://book.douban.com/subject/5916234/)）
-    - 禁止熬夜，充足的睡眠（参考：[《睡眠革命》](https://book.douban.com/subject/27023900/)
+    - 禁止熬夜，充足的睡眠（参考：[《睡眠革命》](https://book.douban.com/subject/27023900/))
     - keep 早晚热敷
     - keep 锻炼，提高抵抗力
 
